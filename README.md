@@ -1,6 +1,6 @@
 # engines
 
-<a href="https://github.com/">
+<a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg">
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="100%" height="100%">
 </a>
 
