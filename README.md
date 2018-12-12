@@ -23,6 +23,8 @@ There are three main datasets.
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount.svg" width="49%" height="49%">
 </a>
 
+<br>
+
   <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
   <https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age_type.svg" width="49%" height="49%">
 </a>
