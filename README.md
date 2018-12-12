@@ -16,10 +16,10 @@ There are three main datasets.
 <summary>inventory charts</summary>
 <br>
 <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg">
-  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="45%" height="45%">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="50%" height="45%">
 </a>
   <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg">
-  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="45%" height="45%">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="50%" height="45%">
 </a>
 </details><br> 
 
