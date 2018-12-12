@@ -22,7 +22,7 @@ There are three main datasets.
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount.svg" width="49%" height="49%">
 </a>
   <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
-  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age_type.svg" width="49%" height="49%">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age_type.svg" width="48%" height="49%">
 </a>
   <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount_type.svg" width="49%" height="49%">
