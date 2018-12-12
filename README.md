@@ -18,7 +18,7 @@ There are three main datasets.
 <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg">
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="100%" height="100%">
 </a>
-<details><br> 
+</details>
 
 The purpose of the inventory dataset is to map out the history of USAF engine trends from 1950-present. This includes the number of aircraft, the number of engines, the age of the fleet, and performance specs of the entire fleet. 
 
