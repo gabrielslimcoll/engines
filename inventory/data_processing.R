@@ -12,6 +12,7 @@ library(tidyverse)
 library(ggthemes)
 library(extrafont)
 library(extrafontdb)
+library(svglite)
 
 # theme --------------------------------------------------------------------------
 
@@ -168,6 +169,15 @@ by_type <- by_type %>%
     )
 )
 
+ggsave(
+  "charts/engine_amount.svg",
+  p,
+  device = "svg",
+  width = 8,
+  height = 6,
+  units = "in"
+)
+
 # plot number of engines ---------------------------------------------------------
 
 engine <- engine %>%
@@ -204,14 +214,14 @@ p_engine <- engine %>%
     ylab("amount")
 )
 
-ggsave(
-  "charts/engine_amount.svg",
-  p,
-  device = "svg",
-  width = 8,
-  height = 6,
-  units = "in"
-)
+# ggsave(
+#   "charts/engine_amount.svg",
+#   p,
+#   device = "svg",
+#   width = 8,
+#   height = 6,
+#   units = "in"
+# )
 
 # plot number of engines by aircraft type ----------------------------------------
 
