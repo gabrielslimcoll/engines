@@ -53,6 +53,20 @@ There are three main datasets.
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/pressure.svg" width="49%" height="49%">
 </a>
 
+<a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/speed.svg" width="49%" height="49%">
+</a>
+ <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/takeoff_weight.svg" width="49%" height="49%">
+</a>
+
+<a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/climb.svg" width="49%" height="49%">
+</a>
+ <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/range.svg" width="49%" height="49%">
+</a>
+
 </details><br> 
 
 The purpose of the inventory dataset is to map out the history of USAF engine trends from 1950-present. This includes the number of aircraft, the number of engines, the age of the fleet, and performance specs of the entire fleet. 
