@@ -18,19 +18,15 @@ There are three main datasets.
 <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="49%" height="49%">
 </a>
-  
-  <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+ <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
   <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount.svg" width="49%" height="49%">
 </a>
 
-<br>
-
-  <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
-  <https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age_type.svg" width="49%" height="49%">
+<a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age_type.svg" width="49%" height="49%">
 </a>
-                                                                                                                      
-  <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
-  <https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount_type.svg" width="49%" height="49%">
+ <a href="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/engine_amount_type.svg" width="49%" height="49%">
 </a>
 </details><br> 
 
