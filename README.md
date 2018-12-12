@@ -1,7 +1,7 @@
 # engines
 
 <a href="https://github.com/">
-  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="100%" height="144">
+  <img src="https://github.com/gabrielslimcoll/engines/blob/master/inventory/charts/average_age.svg" width="100%" height="100%">
 </a>
 
 This folder includes coding work for the Future of Military Engines project. 
